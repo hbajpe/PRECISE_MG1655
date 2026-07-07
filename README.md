@@ -2,6 +2,7 @@
 PRECISE database for wild-type Escherichia coli MG1655
 
 The data and code provided here were used to create and analyze the iModulon structure of the wild-type model strain E. coli MG1655. 
+
 Note: larger data files have been uploaded to the Zenodo repository found at https://doi.org/10.5281/zenodo.15665274. 
 
 Associated publication: 
