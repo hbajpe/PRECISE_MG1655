@@ -1,0 +1,122 @@
+,source,target,interaction_type
+0,Crp,ArcA-2,shared_gene
+1,Crp,ArcA-1,shared_gene
+2,Crp,FliA,shared_gene
+3,Crp,Nucleoside,shared_gene
+4,Crp,Galactose,shared_gene
+5,Crp,Fucose,shared_gene
+6,Crp,Salicylic Acid,shared_gene
+7,Crp,FlhDC-2,shared_gene
+8,RpoS,DNA Damage,shared_gene
+9,RpoS,ArcA-2,shared_gene
+10,RpoS,Fur-1,shared_gene
+11,RpoS,SoxS,shared_gene
+12,RpoS,GadX,shared_gene
+13,RpoS,TyrR,shared_gene
+14,RpoS,NtrC-1,shared_gene
+15,RpoS,Glutarate,shared_gene
+16,Fnr-2,N Reduction,shared_gene
+17,Fnr-2,SoxS,shared_gene
+18,Fnr-2,Phosphate,shared_gene
+19,Fnr-2,Copper,shared_gene
+20,Fnr-2,BasR,shared_gene
+21,Fnr-2,Fnr-1,shared_gene
+22,Fnr-2,Lrp-2,shared_gene
+23,Fnr-2,TyrR,shared_gene
+24,ArcA-2,ArcA-1,shared_gene
+25,ArcA-2,N Reduction,shared_gene
+26,ArcA-2,SoxS,shared_gene
+27,ArcA-2,Fur-2,shared_gene
+28,ArcA-2,FDH-N/NRA,shared_gene
+29,ArcA-2,Fnr-1,shared_gene
+30,ArcA-2,Lrp-2,shared_gene
+31,ArcA-2,CpxR,shared_gene
+32,ArcA-2,NtrC-1,shared_gene
+33,RcsAB,FlhDC-1,shared_gene
+34,ArcA-1,Fnr-1,shared_gene
+35,ArcA-1,Putrescine,shared_gene
+36,FliA,FlhDC-2,shared_gene
+37,FliA,FlhDC-1,shared_gene
+38,Tryptophan,TyrR,shared_gene
+39,N Reduction,Phosphate,shared_gene
+40,N Reduction,FDH-N/NRA,shared_gene
+41,N Reduction,Fnr-1,shared_gene
+42,Fur-1,Phosphate,shared_gene
+43,Fur-1,Fur-2,shared_gene
+44,SoxS,Phosphate,shared_gene
+45,SoxS,Fur-2,shared_gene
+46,SoxS,Fnr-1,shared_gene
+47,GlcNAc,Sialic Acid,shared_gene
+48,GlcNAc,Galactose,shared_gene
+49,GlcNAc,Lrp-2,shared_gene
+50,UC-5,GadX,shared_gene
+51,UC-5,Lrp-2,shared_gene
+52,Nucleoside,FrmR,shared_gene
+53,Lrp-1,Lrp-2,shared_gene
+54,Pyrimidine,Purine,shared_gene
+55,Pyrimidine,Arginine,shared_gene
+56,Pyrimidine,NtrC-1,shared_gene
+57,Phosphate,UxuR,shared_gene
+58,Phosphate,EvgA,shared_gene
+59,Phosphate,Fnr-1,shared_gene
+60,Phosphate,Fucose,shared_gene
+61,Phosphate,Lrp-2,shared_gene
+62,Phosphate,Cysteine,shared_gene
+63,Phosphate,NtrC-1,shared_gene
+64,Purine,NtrC-1,shared_gene
+65,Fur-2,Fnr-1,shared_gene
+66,Fur-2,CpxR,shared_gene
+67,Isc System,Fnr-1,shared_gene
+68,EvgA,Fucose,shared_gene
+69,Copper,Fnr-1,shared_gene
+70,Nickel,Fnr-1,shared_gene
+71,FDH-N/NRA,Fnr-1,shared_gene
+72,BasR,Lrp-2,shared_gene
+73,BasR,NtrC-1,shared_gene
+74,Fnr-1,CpxR,shared_gene
+75,Microaerobic,GadX,shared_gene
+76,Lrp-2,Cysteine,shared_gene
+77,Lrp-2,Leucine/Dipeptide,shared_gene
+78,Cysteine,Sulfate,shared_gene
+79,Cysteine,NtrC-1,shared_gene
+80,FlhDC-2,FlhDC-1,shared_gene
+81,NtrC-1,Glutarate,shared_gene
+82,NtrC-1,NtrC-2,shared_gene
+83,malT,Maltose,regulator_iM
+84,pdhR,Glycolate,regulator_iM
+85,glcC,Glycolate,regulator_iM
+86,rpsH,Translation,regulator_iM
+87,lexA,DNA Damage,regulator_iM
+88,rcsA,RcsAB,regulator_iM
+89,fliA,FliA,regulator_iM
+90,soxS,SoxS,regulator_iM
+91,soxS,Salicylic Acid,regulator_iM
+92,srlR,Sorbitol,regulator_iM
+93,gutM,Sorbitol,regulator_iM
+94,cdaR,Sugar Diacid,regulator_iM
+95,purR,Purine,regulator_iM
+96,purR,Glycine,regulator_iM
+97,frmR,FrmR,regulator_iM
+98,iscR,Isc System,regulator_iM
+99,tdcA,Thre/Ser,regulator_iM
+100,galS,Galactose,regulator_iM
+101,cusR,Copper,regulator_iM
+102,puuR,Putrescine,regulator_iM
+103,slyA,SlyA,regulator_iM
+104,appY,Microaerobic,regulator_iM
+105,ydeO,Microaerobic,regulator_iM
+106,gadX,GadX,regulator_iM
+107,kdpE,Potassium,regulator_iM
+108,marA,Salicylic Acid,regulator_iM
+109,marA,Biofilm,regulator_iM
+110,marR,Salicylic Acid,regulator_iM
+111,fliZ,Curli,regulator_iM
+112,csgD,Curli,regulator_iM
+113,pdeL,TyrR,regulator_iM
+114,cbl,Sulfate,regulator_iM
+115,flhD,FlhDC-2,regulator_iM
+116,flhD,FlhDC-1,regulator_iM
+117,rhaS,Rhamnose,regulator_iM
+118,ntrC,NtrC-1,regulator_iM
+119,ntrC,NtrC-2,regulator_iM
+120,leuO,Leucine/Dipeptide,regulator_iM

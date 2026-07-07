@@ -1,0 +1,239 @@
+,source,target,interaction_type
+0,Crp,ArcA-2,shared_gene
+1,Crp,ArcA-1,shared_gene
+2,Crp,FliA,shared_gene
+3,Crp,Nucleoside,shared_gene
+4,Crp,Galactose,shared_gene
+5,Crp,Fucose,shared_gene
+6,Crp,Salicylic Acid,shared_gene
+7,Crp,FlhDC-2,shared_gene
+8,RpoS,DNA Damage,shared_gene
+9,RpoS,ArcA-2,shared_gene
+10,RpoS,Fur-1,shared_gene
+11,RpoS,SoxS,shared_gene
+12,RpoS,GadX,shared_gene
+13,RpoS,TyrR,shared_gene
+14,RpoS,NtrC-1,shared_gene
+15,RpoS,Glutarate,shared_gene
+16,Fnr-2,N Reduction,shared_gene
+17,Fnr-2,SoxS,shared_gene
+18,Fnr-2,Phosphate,shared_gene
+19,Fnr-2,Copper,shared_gene
+20,Fnr-2,BasR,shared_gene
+21,Fnr-2,Fnr-1,shared_gene
+22,Fnr-2,Lrp-2,shared_gene
+23,Fnr-2,TyrR,shared_gene
+24,ArcA-2,ArcA-1,shared_gene
+25,ArcA-2,N Reduction,shared_gene
+26,ArcA-2,SoxS,shared_gene
+27,ArcA-2,Fur-2,shared_gene
+28,ArcA-2,FDH-N/NRA,shared_gene
+29,ArcA-2,Fnr-1,shared_gene
+30,ArcA-2,Lrp-2,shared_gene
+31,ArcA-2,CpxR,shared_gene
+32,ArcA-2,NtrC-1,shared_gene
+33,RcsAB,FlhDC-1,shared_gene
+34,ArcA-1,Fnr-1,shared_gene
+35,ArcA-1,Putrescine,shared_gene
+36,FliA,FlhDC-2,shared_gene
+37,FliA,FlhDC-1,shared_gene
+38,Tryptophan,TyrR,shared_gene
+39,N Reduction,Phosphate,shared_gene
+40,N Reduction,FDH-N/NRA,shared_gene
+41,N Reduction,Fnr-1,shared_gene
+42,Fur-1,Phosphate,shared_gene
+43,Fur-1,Fur-2,shared_gene
+44,SoxS,Phosphate,shared_gene
+45,SoxS,Fur-2,shared_gene
+46,SoxS,Fnr-1,shared_gene
+47,GlcNAc,Sialic Acid,shared_gene
+48,GlcNAc,Galactose,shared_gene
+49,GlcNAc,Lrp-2,shared_gene
+50,UC-5,GadX,shared_gene
+51,UC-5,Lrp-2,shared_gene
+52,Nucleoside,FrmR,shared_gene
+53,Lrp-1,Lrp-2,shared_gene
+54,Pyrimidine,Purine,shared_gene
+55,Pyrimidine,Arginine,shared_gene
+56,Pyrimidine,NtrC-1,shared_gene
+57,Phosphate,UxuR,shared_gene
+58,Phosphate,EvgA,shared_gene
+59,Phosphate,Fnr-1,shared_gene
+60,Phosphate,Fucose,shared_gene
+61,Phosphate,Lrp-2,shared_gene
+62,Phosphate,Cysteine,shared_gene
+63,Phosphate,NtrC-1,shared_gene
+64,Purine,NtrC-1,shared_gene
+65,Fur-2,Fnr-1,shared_gene
+66,Fur-2,CpxR,shared_gene
+67,Isc System,Fnr-1,shared_gene
+68,EvgA,Fucose,shared_gene
+69,Copper,Fnr-1,shared_gene
+70,Nickel,Fnr-1,shared_gene
+71,FDH-N/NRA,Fnr-1,shared_gene
+72,BasR,Lrp-2,shared_gene
+73,BasR,NtrC-1,shared_gene
+74,Fnr-1,CpxR,shared_gene
+75,Microaerobic,GadX,shared_gene
+76,Lrp-2,Cysteine,shared_gene
+77,Lrp-2,Leucine/Dipeptide,shared_gene
+78,Cysteine,Sulfate,shared_gene
+79,Cysteine,NtrC-1,shared_gene
+80,FlhDC-2,FlhDC-1,shared_gene
+81,NtrC-1,Glutarate,shared_gene
+82,NtrC-1,NtrC-2,shared_gene
+83,malT,Maltose,regulator_iM
+84,crp,Crp,regulator_iM
+85,crp,Sorbitol,regulator_iM
+86,crp,Nucleoside,regulator_iM
+87,crp,Thre/Ser,regulator_iM
+88,crp,Galactose,regulator_iM
+89,crp,Propionate,regulator_iM
+90,crp,Fucose,regulator_iM
+91,crp,SlyA,regulator_iM
+92,crp,Glycine,regulator_iM
+93,crp,Salicylic Acid,regulator_iM
+94,crp,Arabinose,regulator_iM
+95,crp,Glutarate,regulator_iM
+96,rpoD,Crp,regulator_iM
+97,rpoD,Glycolate,regulator_iM
+98,rpoD,ArcA-2,regulator_iM
+99,rpoD,RcsAB,regulator_iM
+100,rpoD,Histidine,regulator_iM
+101,rpoD,Tryptophan,regulator_iM
+102,rpoD,N Reduction,regulator_iM
+103,rpoD,Phosphate,regulator_iM
+104,rpoD,FDH-N/NRA,regulator_iM
+105,rpoD,Fucose,regulator_iM
+106,rpoD,Potassium,regulator_iM
+107,rpoD,Arabinose,regulator_iM
+108,rpoD,Lysine/T2SS,regulator_iM
+109,rpoD,Rhamnose,regulator_iM
+110,ihfA,Glycolate,regulator_iM
+111,ihfA,UC-5,regulator_iM
+112,ihfA,FHL,regulator_iM
+113,ihfA,Leu/Val/Ile,regulator_iM
+114,ihfA,Thre/Ser,regulator_iM
+115,ihfA,Osmoprotectant,regulator_iM
+116,arcA,Glycolate,regulator_iM
+117,arcA,ArcA-2,regulator_iM
+118,arcA,ArcA-1,regulator_iM
+119,arcA,UC-5,regulator_iM
+120,arcA,Microaerobic,regulator_iM
+121,pdhR,Glycolate,regulator_iM
+122,glcC,Glycolate,regulator_iM
+123,rpoS,RpoS,regulator_iM
+124,rpoS,Microaerobic,regulator_iM
+125,rpoS,GadX,regulator_iM
+126,rpoS,Curli,regulator_iM
+127,rpoS,Osmoprotectant,regulator_iM
+128,rpoS,Biofilm,regulator_iM
+129,rpoS,Glutarate,regulator_iM
+130,rpsH,Translation,regulator_iM
+131,fnr,Fnr-2,regulator_iM
+132,fnr,N Reduction,regulator_iM
+133,fnr,UC-5,regulator_iM
+134,fnr,Thre/Ser,regulator_iM
+135,fnr,Nickel,regulator_iM
+136,fnr,Fnr-1,regulator_iM
+137,fnr,Glycine,regulator_iM
+138,lexA,DNA Damage,regulator_iM
+139,rcsA,RcsAB,regulator_iM
+140,dksA,Histidine,regulator_iM
+141,fliA,FliA,regulator_iM
+142,trpR,Tryptophan,regulator_iM
+143,narL,N Reduction,regulator_iM
+144,narL,Nickel,regulator_iM
+145,narL,FDH-N/NRA,regulator_iM
+146,fur,Fur-1,regulator_iM
+147,fur,Fur-2,regulator_iM
+148,gntR,Gluconate,regulator_iM
+149,soxS,SoxS,regulator_iM
+150,soxS,Salicylic Acid,regulator_iM
+151,oxyR,SoxS,regulator_iM
+152,zur,Zinc,regulator_iM
+153,srlR,Sorbitol,regulator_iM
+154,gutM,Sorbitol,regulator_iM
+155,hns,Sorbitol,regulator_iM
+156,hns,Osmoprotectant,regulator_iM
+157,hns,Glutarate,regulator_iM
+158,nagC,GlcNAc,regulator_iM
+159,fis,UC-5,regulator_iM
+160,fis,Fimbriae,regulator_iM
+161,fis,Salicylic Acid,regulator_iM
+162,cytR,Nucleoside,regulator_iM
+163,nanR,Sialic Acid,regulator_iM
+164,lrp,Lrp-1,regulator_iM
+165,lrp,Fimbriae,regulator_iM
+166,lrp,Leu/Val/Ile,regulator_iM
+167,lrp,Glycine,regulator_iM
+168,lrp,Lrp-2,regulator_iM
+169,lrp,Glutarate,regulator_iM
+170,rpoH,RpoH,regulator_iM
+171,cdaR,Sugar Diacid,regulator_iM
+172,pepA,Pyrimidine,regulator_iM
+173,phoB,Phosphate,regulator_iM
+174,phoB,Copper,regulator_iM
+175,purR,Purine,regulator_iM
+176,purR,Glycine,regulator_iM
+177,uxuR,UxuR,regulator_iM
+178,frmR,FrmR,regulator_iM
+179,iscR,Isc System,regulator_iM
+180,rpoN,FHL,regulator_iM
+181,rpoN,Nickel,regulator_iM
+182,rpoN,Propionate,regulator_iM
+183,rpoN,NtrC-2,regulator_iM
+184,nsrR,FHL,regulator_iM
+185,modE,FHL,regulator_iM
+186,fhlA,FHL,regulator_iM
+187,yhaJ,YhaJ,regulator_iM
+188,tdcR,Thre/Ser,regulator_iM
+189,tdcA,Thre/Ser,regulator_iM
+190,galS,Galactose,regulator_iM
+191,evgA,EvgA,regulator_iM
+192,cusR,Copper,regulator_iM
+193,hprR,Copper,regulator_iM
+194,nikR,Nickel,regulator_iM
+195,cra,Propionate,regulator_iM
+196,cra,Salicylic Acid,regulator_iM
+197,cra,Cra,regulator_iM
+198,prpR,Propionate,regulator_iM
+199,basR,BasR,regulator_iM
+200,puuR,Putrescine,regulator_iM
+201,metJ,Methionine,regulator_iM
+202,srsR,Fucose,regulator_iM
+203,fucR,Fucose,regulator_iM
+204,slyA,SlyA,regulator_iM
+205,appY,Microaerobic,regulator_iM
+206,ydeO,Microaerobic,regulator_iM
+207,gadX,GadX,regulator_iM
+208,gcvA,Glycine,regulator_iM
+209,kdpE,Potassium,regulator_iM
+210,acrR,Salicylic Acid,regulator_iM
+211,cpxR,Salicylic Acid,regulator_iM
+212,cpxR,Curli,regulator_iM
+213,cpxR,CpxR,regulator_iM
+214,marA,Salicylic Acid,regulator_iM
+215,marA,Biofilm,regulator_iM
+216,rob,Salicylic Acid,regulator_iM
+217,marR,Salicylic Acid,regulator_iM
+218,araC,Arabinose,regulator_iM
+219,cysB,Cysteine,regulator_iM
+220,cysB,Sulfate,regulator_iM
+221,fliZ,Curli,regulator_iM
+222,csgD,Curli,regulator_iM
+223,btsR,Curli,regulator_iM
+224,argR,Arginine,regulator_iM
+225,pdeL,TyrR,regulator_iM
+226,tyrR,TyrR,regulator_iM
+227,cbl,Sulfate,regulator_iM
+228,flhD,FlhDC-2,regulator_iM
+229,flhD,FlhDC-1,regulator_iM
+230,argP,Lysine/T2SS,regulator_iM
+231,rhaS,Rhamnose,regulator_iM
+232,birA,Biotin,regulator_iM
+233,bluR,Biofilm,regulator_iM
+234,ntrC,NtrC-1,regulator_iM
+235,ntrC,NtrC-2,regulator_iM
+236,leuO,Leucine/Dipeptide,regulator_iM
+237,glaR,Glutarate,regulator_iM
